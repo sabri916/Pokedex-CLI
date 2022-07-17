@@ -1,0 +1,29 @@
+{
+  "name": "pokedex-cli-tt",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^2.0.2",
+    "cli-spinners": "^2.6.1",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.1",
+    "graphics-magick-binaries": "^1.0.1",
+    "image-to-ascii": "^3.0.13",
+    "inquirer": "^8.2.4",
+    "ora": "^6.1.0",
+    "pokedex-promise-v2": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
